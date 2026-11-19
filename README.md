@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="banner.png" alt="Banner" width="100%" />
+<img src="banner.png" alt="Banner" width="760" />
 
-<br/>
-
-<img src="bird-typing.svg" alt="Welcome to the world of Its Tiny Vee" width="600" />
+<img src="bird-typing.svg" alt="Welcome to the world of Its Tiny Vee" width="460" />
 
 </div>
 
