@@ -14,14 +14,9 @@
 
 <img align="right" width="260" src="about.png" alt="About me image" />
 
-**Hiiii, It´s tiny vee!!.** I'm a Multiplatform Software Development Engineering student with a deep love for design and a creative mind that never really switches off. I like turning ideas into web and mobile apps that are not only functional, but also beautiful and intentional.
+Hiiii, **it's tiny vee!! ✨** I'm a Multiplatform Software Engineering student with a creative mind that loves turning ideas into web and mobile apps. 💻📱 Frontend is where my heart is, though I also enjoy experimenting with other areas like backend and databases to see how everything connects. 🔧🗄️ I use AI as a tool to prototype faster, explore new concepts, and build better while keeping my own voice and judgment. 🤖✨ Outside of code, you'll usually find me listening to music, sipping coffee, or watching anime (Kuroshitsuji is a favorite).
 
-I know how to put **AI** to work for me: I use it to prototype faster, learn new things and build better, while still keeping my own judgment and style.
-
-I care about the details: layout, color, typography and the small interactions that make something feel alive. Just like this profile.
-
-My goal is simple: write clean code, design with intention, and keep learning, calmly.
-
+siempre aprendiendo y cuidando cada detalle. ☕🎧🖤
 <br clear="right"/>
 
 ---
