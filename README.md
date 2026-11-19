@@ -6,17 +6,11 @@
 
 <img src="bird-sleep.svg" alt="A bird sleeping in its nest" width="360" />
 
-<br/>
+<img src="divider-flowers.svg" alt="" width="620" />
 
-<img src="https://img.shields.io/badge/Studying-Multiplatform_Software_Development-D9AE4E?style=flat-square&labelColor=5C3A1E" alt="Studying" />
-<img src="https://img.shields.io/badge/Focus-Design_%26_Creativity-D9AE4E?style=flat-square&labelColor=5C3A1E" alt="Focus" />
-<img src="https://img.shields.io/badge/Skill-AI_Assisted_Development-D9AE4E?style=flat-square&labelColor=5C3A1E" alt="Skill" />
+<img src="title-about.svg" alt="About Me" width="620" />
 
 </div>
-
----
-
-## About Me
 
 <img align="right" width="260" src="about.png" alt="About me image" />
 
@@ -26,9 +20,11 @@ always learning and crafting one detail at a time. ☕🎧🖤
 
 <br clear="right"/>
 
----
+<div align="center">
 
-## Tech Stack
+<img src="title-tech.svg" alt="Tech Stack" width="620" />
+
+</div>
 
 ### Languages & Markup
 
@@ -52,16 +48,10 @@ always learning and crafting one detail at a time. ☕🎧🖤
 
 `UI Design` · `Creative Direction` · `AI-Assisted Development` · `Clean Code` · `Rapid Prototyping`
 
----
-
-## GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsTinyVee&bg_color=00000000&color=F3DC93&line=D9AE4E&point=FFF8E7&area=true&area_color=B07A36&title_color=D9AE4E&hide_border=true&custom_title=My%20Contributions" alt="Contribution graph" width="100%" />
+<img src="divider-flowers.svg" alt="" width="620" />
 
-<img src="https://streak-stats.demolab.com/?user=itsTinyVee&theme=transparent&ring=D9AE4E&fire=F3DC93&currStreakNum=FFF8E7&sideNums=F3DC93&currStreakLabel=D9AE4E&sideLabels=B07A36&dates=B07A36&stroke=5C3A1E&hide_border=true" alt="Streak stats" />
+<sub>Always learning, always creating.</sub>
 
 </div>
-
----
