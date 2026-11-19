@@ -80,3 +80,11 @@ always learning and crafting one detail at a time. ☕🎧🖤
 <sub>Always learning, always creating.</sub>
 
 </div>
+
+<div align="center">
+
+<a href="https://open.spotify.com/track/3sAYxq1986j3ydqLv6jwUJ">
+  <img src="spotify-card.svg" alt="Waltz" width="600" />
+</a>
+
+</div>
