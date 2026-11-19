@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Banner" width="760" />
+<img src="banner.png" alt="Banner" width="100%" />
 
 <img src="bird-sleep.svg" alt="A bird sleeping in its nest" width="360" />
 
