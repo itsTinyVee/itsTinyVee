@@ -2,11 +2,11 @@
 
 <img src="banner.png" alt="Banner" width="100%" />
 
+<img src="divider-flowers.svg" alt="" width="620" />
+
 <img src="welcome-elegant.svg" alt="Welcome to the world of Its Tiny Vee" width="640" />
 
 <img src="bird-sleep.svg" alt="A bird sleeping in its nest" width="360" />
-
-<img src="divider-flowers.svg" alt="" width="620" />
 
 <img src="title-about.svg" alt="About Me" width="620" />
 
@@ -24,21 +24,31 @@ always learning and crafting one detail at a time. ☕🎧🖤
 
 <img src="title-tech.svg" alt="Tech Stack" width="620" />
 
-<br/>
+</div>
 
-<img src="https://img.shields.io/badge/Dart-D9AE4E?style=flat-square&logo=dart&logoColor=F3DC93&labelColor=5C3A1E" alt="Dart" />
-<img src="https://img.shields.io/badge/JavaScript-D9AE4E?style=flat-square&logo=javascript&logoColor=F3DC93&labelColor=5C3A1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-D9AE4E?style=flat-square&logo=typescript&logoColor=F3DC93&labelColor=5C3A1E" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-D9AE4E?style=flat-square&logo=python&logoColor=F3DC93&labelColor=5C3A1E" alt="Python" />
-<img src="https://img.shields.io/badge/C-D9AE4E?style=flat-square&logo=c&logoColor=F3DC93&labelColor=5C3A1E" alt="C" />
-<img src="https://img.shields.io/badge/HTML5-D9AE4E?style=flat-square&logo=html5&logoColor=F3DC93&labelColor=5C3A1E" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-D9AE4E?style=flat-square&logo=css3&logoColor=F3DC93&labelColor=5C3A1E" alt="CSS3" />
+### Languages & Markup
 
-<img src="https://img.shields.io/badge/Flutter-D9AE4E?style=flat-square&logo=flutter&logoColor=F3DC93&labelColor=5C3A1E" alt="Flutter" />
-<img src="https://img.shields.io/badge/Figma-D9AE4E?style=flat-square&logo=figma&logoColor=F3DC93&labelColor=5C3A1E" alt="Figma" />
-<img src="https://img.shields.io/badge/VS_Code-D9AE4E?style=flat-square&logo=visualstudiocode&logoColor=F3DC93&labelColor=5C3A1E" alt="VS Code" />
-<img src="https://img.shields.io/badge/Git-D9AE4E?style=flat-square&logo=git&logoColor=F3DC93&labelColor=5C3A1E" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-D9AE4E?style=flat-square&logo=github&logoColor=F3DC93&labelColor=5C3A1E" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=dart,js,ts,python,c,html,css&theme=dark" alt="Languages" />
+
+`Dart` · `JavaScript` · `TypeScript` · `Python` · `C` · `HTML5` · `CSS3`
+
+### Frameworks
+
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Frameworks" />
+
+`Flutter`
+
+### Design & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=figma,vscode,git,github&theme=dark" alt="Tools" />
+
+`Figma` · `Visual Studio Code` · `Git` · `GitHub`
+
+### Strengths
+
+`UI Design` · `Creative Direction` · `AI-Assisted Development` · `Clean Code` · `Rapid Prototyping`
+
+<div align="center">
 
 <img src="divider-flowers.svg" alt="" width="620" />
 
