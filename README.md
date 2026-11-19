@@ -20,6 +20,14 @@ always learning and crafting one detail at a time. ☕🎧🖤
 
 <div align="center">
 
+<div align="center">
+
+<a href="https://open.spotify.com/intl-es/track/3sAYxq1986j3ydqLv6jwUJ">
+  <img src="spotify-card.svg" alt="Listen on Spotify" width="460" />
+</a>
+
+</div>
+
 <img src="title-tech.svg" alt="Tech Stack" width="620" />
 
 </div>
