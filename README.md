@@ -54,6 +54,14 @@ always learning and crafting one detail at a time. ☕🎧🖤
 
 ---
 
+## GitHub Activity
+
 <div align="center">
-<sub>Always learning, always creating.</sub>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsTinyVee&bg_color=00000000&color=F3DC93&line=D9AE4E&point=FFF8E7&area=true&area_color=B07A36&title_color=D9AE4E&hide_border=true&custom_title=My%20Contributions" alt="Contribution graph" width="100%" />
+
+<img src="https://streak-stats.demolab.com/?user=itsTinyVee&theme=transparent&ring=D9AE4E&fire=F3DC93&currStreakNum=FFF8E7&sideNums=F3DC93&currStreakLabel=D9AE4E&sideLabels=B07A36&dates=B07A36&stroke=5C3A1E&hide_border=true" alt="Streak stats" />
+
 </div>
+
+---
