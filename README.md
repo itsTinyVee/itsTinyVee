@@ -4,9 +4,7 @@
 
 <img src="divider-flowers.svg" alt="" width="620" />
 
-<img src="welcome-elegant.svg" alt="Welcome to the world of Its Tiny Vee" width="640" />
-
-<img src="bird-sleep.svg" alt="A bird sleeping in its nest" width="360" />
+<img src="guardian.svg" alt="Welcome to the world of Its Tiny Vee" width="760" />
 
 <img src="title-about.svg" alt="About Me" width="620" />
 
