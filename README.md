@@ -6,6 +6,12 @@
 
 <img src="bird-sleep.svg" alt="A bird sleeping in its nest" width="360" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/Studying-Multiplatform_Software_Development-D9AE4E?style=flat-square&labelColor=5C3A1E" alt="Studying" />
+<img src="https://img.shields.io/badge/Focus-Design_%26_Creativity-D9AE4E?style=flat-square&labelColor=5C3A1E" alt="Focus" />
+<img src="https://img.shields.io/badge/Skill-AI_Assisted_Development-D9AE4E?style=flat-square&labelColor=5C3A1E" alt="Skill" />
+
 </div>
 
 ---
@@ -16,15 +22,38 @@
 
 Hiiii, **it's tiny vee!! ✨** I'm a Multiplatform Software Engineering student with a creative mind that loves turning ideas into web and mobile apps. 💻📱 Frontend is where my heart is, though I also enjoy experimenting with other areas like backend and databases to see how everything connects. 🔧🗄️ I use AI as a tool to prototype faster, explore new concepts, and build better while keeping my own voice and judgment. 🤖✨ Outside of code, you'll usually find me listening to music, sipping coffee, or watching anime (Kuroshitsuji is a favorite).
 
-siempre aprendiendo y cuidando cada detalle. ☕🎧🖤
+always learning and crafting one detail at a time. ☕🎧🖤
+
 <br clear="right"/>
 
 ---
 
-<div align="center">
-
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,python,html,css,c,git,github,vscode,figma&theme=dark" alt="Tech stack" />
+### Languages & Markup
 
+<img src="https://skillicons.dev/icons?i=dart,js,ts,python,c,html,css&theme=dark" alt="Languages" />
+
+`Dart` · `JavaScript` · `TypeScript` · `Python` · `C` · `HTML5` · `CSS3`
+
+### Frameworks
+
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Frameworks" />
+
+`Flutter`
+
+### Design & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=figma,vscode,git,github&theme=dark" alt="Tools" />
+
+`Figma` · `Visual Studio Code` · `Git` · `GitHub`
+
+### Strengths
+
+`UI Design` · `Creative Direction` · `AI-Assisted Development` · `Clean Code` · `Rapid Prototyping`
+
+---
+
+<div align="center">
+<sub>Always learning, always creating.</sub>
 </div>
