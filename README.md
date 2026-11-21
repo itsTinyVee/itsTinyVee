@@ -4,7 +4,7 @@
 
 <img src="divider-flowers.svg" alt="" width="620" />
 
-<img src="guardian.svg" alt="Welcome to the world of Its Tiny Vee" width="760" />
+<img src="welcome-animated.svg" alt="Welcome to my digital workspace" width="760" />
 
 <img src="title-about.svg" alt="About Me" width="620" />
 
